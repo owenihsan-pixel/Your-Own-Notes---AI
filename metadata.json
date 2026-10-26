@@ -1,0 +1,11 @@
+{
+  "name": "AuraNotes AI - Smart Voice & Screenshot Notes",
+  "description": "Aplikasi catatan cerdas bergaya Notion AI dengan auto-transcribe & ringkasan suara seketika, screenshot instant OCR & AI summary, serta asisten penulisan cerdas bertenaga Google Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
